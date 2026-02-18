@@ -17,7 +17,20 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/https://github.com/CarlesEnric/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="cetcontactemail@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/cetf" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left">
+  <a href="https://github.com/CarlesEnric?subject=Contact%20from%20GitHub&body=Hi%20Carles," target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px">
+  </a>
+  <a href="mailto:cetcontactemail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px">
+  </a>
+  <a href="https://www.linkedin.com/in/cetf" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
+  </a>
+  <a href="https://twitter.com/twitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px">
+  </a>
+</p>
 
  **<h3 align="left">😍 Passionate fullstack web developer</h3>**
 
@@ -39,4 +52,3 @@
  **<h3 align="left">Support Me</h3>**
 
 <p align="left"><a href="https://ko-fi.com/cetf" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
-# assets
