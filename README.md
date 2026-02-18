@@ -8,6 +8,7 @@
       <h1>
         👋 Hi, people!
       </h1>
+      </br>
       <h2>
         Welcome to my github account
       </h2>
