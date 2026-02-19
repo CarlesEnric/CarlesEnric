@@ -1,4 +1,4 @@
-![👋 Hi, people](https://raw.githubusercontent.com/CarlesEnric/assets/main/github-header-banner.png)
+![👋 Hi, people](https://raw.githubusercontent.com/CarlesEnric/assets/main/github-header-banner0.png)
 
 ![Profile views](https://komarev.com/ghpvc/?username=CarlesEnric&label=Profile%20views&color=0e75b6&style=flat)
 
